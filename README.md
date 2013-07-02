@@ -1,0 +1,4 @@
+vipasswordict
+=============
+
+Vietnamese Password Dicts
